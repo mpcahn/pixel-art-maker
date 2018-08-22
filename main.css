@@ -1,0 +1,20 @@
+.grid-container {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 100px 100px;
+  grid-template-rows: 100px 100px;
+}
+
+.pixel {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.color {
+  text-align: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
